@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+        "title": "Cien años de soledad",
+        "author": "Gabril García",
+        "year": "1967",
+        "rating": "469 pts"
+    },
+    {
+        "id": "2",
+        "title": "El señor de los anillos",
+        "director": "J. R. R. Tolkien",
+        "year": "1954",
+        "rating": "389 pts"
+    },
+    {
+        "id": "3",
+        "title": "1984",
+        "director": "George Orwell",
+        "year": "1949",
+        "rating": "382 pts"
+    },
+    {
+        "id": "4",
+        "title": "Un mundo feliz",
+        "director": "Aldous Huxley",
+        "year": "1932",
+        "rating": "374 pts"
+    },
+    {
+        "id": "5",
+        "title": "Orgullo y perjuicio",
+        "director": "Jane Austen",
+        "year": "1813",
+        "rating": "341 pts"
+    },
+    {
+        "id": "6",
+        "title": "Don Quijote de la Mancha",
+        "director": "Miguel de Cervantes",
+        "year": "1605",
+        "rating": "279 pts"
+    },
+    {
+        "id": "7",
+        "title": "El Principito",
+        "director": "Antoine de Saint-Exupéry",
+        "year": "1943",
+        "rating": "253 pts"
+    },
+    {
+        "id": "8",
+        "title": "Lolita",
+        "director": "Vladimir Nabokov",
+        "year": "1955",
+        "rating": "318 pts"
+    },
+    {
+        "id": "9",
+        "title": "Hamlet",
+        "director": "William Shakespeare",
+        "year": "1603",
+        "rating": "246 pts"
+    },
+    {
+        "id": "10",
+        "title": "El gran Gatsby",
+        "director": "F. Scott Fitzgerald",
+        "year": "1925",
+        "rating": "213 pts"
+    }
+]
